@@ -1,6 +1,6 @@
 # CS-370-11296-M01-Current-Emerging-Trends-in-CS
 
-The code here is to create an intelligent agent that can defeat a maze. The code I implemented is the Deep Q-Learning implementation. The main task was to complete the qtrain function that sets up the epoch, trains the neural network using stored experiences, and adjusts exploration.
+The code here is code to create an intelligent agent that can defeat a maze. The code I implemented is the Deep Q-Learning implementation. The main task was to complete the qtrain function that sets up the epoch, trains the neural network using stored experiences, and adjusts exploration.
 It also monitors and prints win rate, win count, loss, and training progress.
 
 1. The goals of a computer scientist are to create efficient algorithms, developing and maintaing software systems to meet need, creating artificial intelligence and machine learning such as in this class, work with data to come to conclusions, and securing data from attacks.
